@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Tema padrão do aplicativo, que herda de Theme.AppCompat -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Aqui você pode customizar as cores, fontes e outros elementos do tema -->
-    </style>
-</resources>
